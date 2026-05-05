@@ -1,2 +1,2 @@
 print ("hola mundo")
-print ("estoy aprendiendo Git")
+print ("estoy aprendiendo git")
